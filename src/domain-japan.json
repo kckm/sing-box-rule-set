@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "steamserver.net",
+        "xn--ngstr-lra8j.com",
+        "jumpw.com",
+        "jumpwgame.com",
+        "xbase.cloud",
+        "yoxuba.com",
+        "ziniao.com",
+        "flyme.com"
+    ]
+    }
+  ]
+}
