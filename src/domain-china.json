@@ -3,6 +3,17 @@
   "rules": [
     {
       "domain_suffix": [
+        ".steamserver.net",
+        ".xn--ngstr-lra8j.com",
+        ".jumpw.com",
+        ".jumpwgame.com",
+        ".xbase.cloud",
+        ".yoxuba.com",
+        ".ziniao.com",
+        ".flyme.com",
+        ".rumt-zh.com"
+    ],
+      "domain": [
         "steamserver.net",
         "xn--ngstr-lra8j.com",
         "jumpw.com",
