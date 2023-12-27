@@ -4,7 +4,10 @@
     {
       "domain_suffix": [
         ".adobe.com"
-    ]
+      ],
+      "domain": [
+        "notifier.win-rar.com"
+      ]
     }
   ]
 }
