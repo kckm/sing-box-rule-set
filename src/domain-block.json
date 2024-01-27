@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
-        ".adobe.com"
+        "adobe.com"
       ],
       "domain": [
         "notifier.win-rar.com",
